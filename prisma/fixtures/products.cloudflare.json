@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Classic Blue Denim Jacket",
+    "slug": "classic-blue-denim-jacket-4656",
+    "description": "Premium denim jacket perfect for casual and semi-formal wear",
+    "priceMinor": 45000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16ebc5?w=500&h=500&fit=crop"
+    ],
+    "stock": 75,
+    "category": "Men's Fashion"
+  },
+  {
+    "name": "White Oxford Shirt",
+    "slug": "white-oxford-shirt-4656",
+    "description": "Crisp white Oxford cloth button-up shirt",
+    "priceMinor": 25000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1596172519195-fb35e5e1b91e?w=500&h=500&fit=crop"
+    ],
+    "stock": 95,
+    "category": "Men's Fashion"
+  },
+  {
+    "name": "Black Chinos",
+    "slug": "black-chinos-4656",
+    "description": "Comfortable and versatile black chino pants",
+    "priceMinor": 35000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1473100089769-a0a72f3f1ba1?w=500&h=500&fit=crop"
+    ],
+    "stock": 54,
+    "category": "Men's Fashion"
+  },
+  {
+    "name": "Navy Polo Shirt",
+    "slug": "navy-polo-shirt-4656",
+    "description": "Classic navy polo shirt for everyday wear",
+    "priceMinor": 20000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1591571437281-d7763c68a82f?w=500&h=500&fit=crop"
+    ],
+    "stock": 79,
+    "category": "Men's Fashion"
+  },
+  {
+    "name": "Grey Hoodie",
+    "slug": "grey-hoodie-4656",
+    "description": "Cozy grey hoodie perfect for layering",
+    "priceMinor": 30000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1556821552-5f0aa7e2c34c?w=500&h=500&fit=crop"
+    ],
+    "stock": 40,
+    "category": "Men's Fashion"
+  },
+  {
+    "name": "Floral Summer Dress",
+    "slug": "floral-summer-dress-4656",
+    "description": "Beautiful floral print summer dress",
+    "priceMinor": 48000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1595777707802-441dc73d9e4f?w=500&h=500&fit=crop"
+    ],
+    "stock": 67,
+    "category": "Women's Fashion"
+  },
+  {
+    "name": "Black Pencil Skirt",
+    "slug": "black-pencil-skirt-4656",
+    "description": "Elegant black pencil skirt for office wear",
+    "priceMinor": 38000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8a88e8d08dbb?w=500&h=500&fit=crop"
+    ],
+    "stock": 78,
+    "category": "Women's Fashion"
+  },
+  {
+    "name": "Pink Blouse",
+    "slug": "pink-blouse-4656",
+    "description": "Soft pink blouse with button details",
+    "priceMinor": 28000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1542720657-1d46403c51ae?w=500&h=500&fit=crop"
+    ],
+    "stock": 38,
+    "category": "Women's Fashion"
+  },
+  {
+    "name": "Denim Jacket",
+    "slug": "denim-jacket-4656",
+    "description": "Classic blue denim jacket for women",
+    "priceMinor": 42000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1609121255175-e06cecaf1a20?w=500&h=500&fit=crop"
+    ],
+    "stock": 105,
+    "category": "Women's Fashion"
+  },
+  {
+    "name": "Leggings",
+    "slug": "leggings-4656",
+    "description": "Comfortable black leggings",
+    "priceMinor": 20000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1506529082632-37541d4bda00?w=500&h=500&fit=crop"
+    ],
+    "stock": 64,
+    "category": "Women's Fashion"
+  },
+  {
+    "name": "Running Sneakers",
+    "slug": "running-sneakers-4656",
+    "description": "Professional running sneakers",
+    "priceMinor": 65000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&h=500&fit=crop"
+    ],
+    "stock": 80,
+    "category": "Shoes"
+  },
+  {
+    "name": "Black High Heels",
+    "slug": "black-high-heels-4656",
+    "description": "Elegant black high heel pumps",
+    "priceMinor": 55000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&h=500&fit=crop"
+    ],
+    "stock": 25,
+    "category": "Shoes"
+  },
+  {
+    "name": "Casual Slip-ons",
+    "slug": "casual-slip-ons-4656",
+    "description": "Comfortable slip-on shoes",
+    "priceMinor": 32000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&h=500&fit=crop"
+    ],
+    "stock": 98,
+    "category": "Shoes"
+  },
+  {
+    "name": "Leather Boots",
+    "slug": "leather-boots-4656",
+    "description": "Premium leather boots",
+    "priceMinor": 72000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=500&fit=crop"
+    ],
+    "stock": 69,
+    "category": "Shoes"
+  },
+  {
+    "name": "Sandals",
+    "slug": "sandals-4656",
+    "description": "Comfortable summer sandals",
+    "priceMinor": 20000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&h=500&fit=crop"
+    ],
+    "stock": 50,
+    "category": "Shoes"
+  },
+  {
+    "name": "Leather Handbag",
+    "slug": "leather-handbag-4656",
+    "description": "Premium leather handbag",
+    "priceMinor": 48000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500&h=500&fit=crop"
+    ],
+    "stock": 47,
+    "category": "Accessories"
+  },
+  {
+    "name": "Silk Scarf",
+    "slug": "silk-scarf-4656",
+    "description": "Elegant silk scarf",
+    "priceMinor": 22000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500&h=500&fit=crop"
+    ],
+    "stock": 92,
+    "category": "Accessories"
+  },
+  {
+    "name": "Gold Necklace",
+    "slug": "gold-necklace-4656",
+    "description": "Beautiful gold necklace",
+    "priceMinor": 65000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500&h=500&fit=crop"
+    ],
+    "stock": 56,
+    "category": "Accessories"
+  },
+  {
+    "name": "Watch",
+    "slug": "watch-4656",
+    "description": "Classic analog watch",
+    "priceMinor": 85000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=500&h=500&fit=crop"
+    ],
+    "stock": 71,
+    "category": "Accessories"
+  },
+  {
+    "name": "Sunglasses",
+    "slug": "sunglasses-4656",
+    "description": "Stylish sunglasses",
+    "priceMinor": 38000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&h=500&fit=crop"
+    ],
+    "stock": 14,
+    "category": "Accessories"
+  },
+  {
+    "name": "Yoga Mat",
+    "slug": "yoga-mat-4656",
+    "description": "Non-slip yoga mat",
+    "priceMinor": 45000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=500&h=500&fit=crop"
+    ],
+    "stock": 58,
+    "category": "Sports"
+  },
+  {
+    "name": "Dumbbell Set",
+    "slug": "dumbbell-set-4656",
+    "description": "Adjustable dumbbell set",
+    "priceMinor": 95000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=500&h=500&fit=crop"
+    ],
+    "stock": 89,
+    "category": "Sports"
+  },
+  {
+    "name": "Resistance Bands",
+    "slug": "resistance-bands-4656",
+    "description": "Set of resistance bands",
+    "priceMinor": 28000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=500&h=500&fit=crop"
+    ],
+    "stock": 71,
+    "category": "Sports"
+  },
+  {
+    "name": "Water Bottle",
+    "slug": "water-bottle-4656",
+    "description": "Insulated water bottle",
+    "priceMinor": 18000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1556821552-5f0aa7e2c34c?w=500&h=500&fit=crop"
+    ],
+    "stock": 93,
+    "category": "Sports"
+  },
+  {
+    "name": "Gym Bag",
+    "slug": "gym-bag-4656",
+    "description": "Large gym bag",
+    "priceMinor": 52000,
+    "currency": "NGN",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=500&fit=crop"
+    ],
+    "stock": 40,
+    "category": "Sports"
+  }
+]
